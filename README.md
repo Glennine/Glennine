@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Glennine
-- 👀 I’m interested in SLAM & NLP & Machine Learning & Knowledge Graph
+- 👀 I’m interested in 🤖️
 - 🌱 I’m currently learning SLAM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cxangyue@gmail.com
