@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Glennine
+- 👋 Hi, I’m @Glennie
 - 👀 I’m interested in 🤖️
 - 🌱 I’m currently learning SLAM
 - 💞️ I’m looking to collaborate on ...
