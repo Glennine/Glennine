@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Glenna
 - 👀 I’m interested in 🤖️
 - 🌱 I’m currently learning SLAM
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on SLAM and HRI
 - 📫 How to reach me cxangyue@gmail.com
 
 <!---
